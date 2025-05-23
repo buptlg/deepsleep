@@ -26,7 +26,7 @@
 
 ### 后端启动
 
-1. 进入后端安装依赖：
+1. 进入后端安装依赖,有requirement文件
 2. 初始化数据库：
 python init_db.py
 
@@ -49,7 +49,7 @@ npm install
 npm run dev
 ```
 
-## 访问地址
+## 访问地址,还没整
 
 - 前端界面: http://localhost:5173
 - 后端API文档: http://localhost:8000/docs
