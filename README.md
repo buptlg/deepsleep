@@ -26,16 +26,10 @@
 
 ### 后端启动
 
-1. 进入后端目录并安装依赖：
-```bash
-cd Backend
-pip install -r requirements.txt
-```
-
+1. 进入后端安装依赖：
 2. 初始化数据库：
-```bash
 python init_db.py
-```
+
 
 3. 启动后端服务：
 ```bash
