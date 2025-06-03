@@ -85,9 +85,9 @@ E-Charge/
 
 - `POST /users/` - 用户注册
 - `GET /users/me` - 获取用户信息
-- `POST /charging/request` - 创建充电请求
+- `POST /charging/request` - 创建请求
 - `GET /charging/queue/status` - 获取排队状态
-- `GET /admin/piles` - 获取充电桩状态
+- `GET /admin/piles` - 获取桩状态
 
 ### 构建部署
 
